@@ -251,3 +251,14 @@
 - 学习如何把 MCP Server 提供给外部客户端访问
 - 在彻底掌握 `stdio` 后，再继续学习 HTTP/远程模式
 - 给 client 和 server 增加更清晰的日志，方便观察每一步发生了什么
+
+下一阶段目标：
+
+从“单 Skill Demo”
+升级为
+“Skill Framework”
+
+核心思想：
+
+Skill 不只是能运行，
+还必须能被系统动态管理
