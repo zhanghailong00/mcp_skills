@@ -1,0 +1,6 @@
+{
+  "name": "paper_summary_skill",
+  "version": "1.0.0",
+  "description": "Academic paper summary skill",
+  "entry": "workflows/summary_flow.py"
+}
